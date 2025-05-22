@@ -189,11 +189,11 @@ column-gap: 40px;
 .more
 {
 text-align: center;
-margin-top: 100px;
+margin-top: 50px;
 border: 1px solid rgb(231,30,63);
-margin-left: 500px;
-margin-right: 500px;
-padding: 30px;
+margin-left: 400px;
+margin-right: 400px;
+padding: 10px;
 }
 .more > a{
     text-decoration: none;
